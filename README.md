@@ -15,8 +15,13 @@ Proje, sadece teorik bir model oluşturmakla kalmayıp, bu modeli **Flask** web 
 ## ⚙️ Uygulama Arayüzü
 Kullanıcılar, oyuncunun saha içi istatistiklerini girerek yapay zeka modelinden anlık tahmin alabilirler.
 
-![Uygulama Ekran Görüntüsü](screenshot.png)
-*(Uygulamanın tahmin arayüzünden bir örnek)*
+![Veri Giriş Ekranı](screenshot.png)
+*(Kullanıcının istatistikleri girdiği ana ekran)*
+
+<br> ![Tahmin Sonucu Ekranı](tahmin_sonucu.png)
+*(Modelin tahmin sonrası ürettiği sonuç ekranı)*
+
+> **Örnek Sonuç:** Yukarıdaki görselde, girilen istatistiklere göre model, oyuncunun maç başına ortalama **24.5 sayı** atacağını tahmin etmiştir.
 
 ---
 
