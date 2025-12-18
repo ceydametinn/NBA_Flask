@@ -21,7 +21,7 @@ Kullanıcılar, oyuncunun saha içi istatistiklerini girerek yapay zeka modelind
 <br> ![Tahmin Sonucu Ekranı](tahmin_sonucu.png)
 *(Modelin tahmin sonrası ürettiği sonuç ekranı)*
 
-> **Örnek Sonuç:** Yukarıdaki görselde, girilen istatistiklere göre model, oyuncunun maç başına ortalama **24.5 sayı** atacağını tahmin etmiştir.
+> **Örnek Sonuç:** Yukarıdaki görselde, girilen istatistiklere göre model, oyuncunun maç başına ortalama **20.39 sayı** atacağını tahmin etmiştir.
 
 ---
 
